@@ -1,0 +1,279 @@
+Fold Number: 1
+Epoch [1/10], Step [3/3], Loss: 2.5746, Accuracy: 13.70%
+Epoch [2/10], Step [3/3], Loss: 2.0440, Accuracy: 27.19%
+Epoch [3/10], Step [3/3], Loss: 1.8423, Accuracy: 31.02%
+Epoch [4/10], Step [3/3], Loss: 1.6682, Accuracy: 33.53%
+Epoch [5/10], Step [3/3], Loss: 1.5486, Accuracy: 40.18%
+Epoch [6/10], Step [3/3], Loss: 1.4727, Accuracy: 44.31%
+Epoch [7/10], Step [3/3], Loss: 1.3956, Accuracy: 46.53%
+Epoch [8/10], Step [3/3], Loss: 1.3574, Accuracy: 48.54%
+Epoch [9/10], Step [3/3], Loss: 1.3374, Accuracy: 51.06%
+Epoch [10/10], Step [3/3], Loss: 1.2563, Accuracy: 54.08%
+              precision    recall  f1-score   support
+
+           0       0.08      0.79      0.15        33
+           1       0.39      0.53      0.45       248
+           2       0.64      0.39      0.49       549
+           3       0.64      0.45      0.53       470
+           4       0.62      0.44      0.52       504
+           5       0.35      0.46      0.40       240
+           6       0.56      0.84      0.68       218
+           7       0.71      0.52      0.60       460
+           8       0.52      0.45      0.48       382
+           9       0.40      0.60      0.48       222
+
+    accuracy                           0.50      3326
+   macro avg       0.49      0.55      0.48      3326
+weighted avg       0.57      0.50      0.51      3326
+
+Fold Number: 2
+Epoch [1/10], Step [3/3], Loss: 2.6100, Accuracy: 22.36%
+Epoch [2/10], Step [3/3], Loss: 1.9717, Accuracy: 26.99%
+Epoch [3/10], Step [3/3], Loss: 1.7428, Accuracy: 33.33%
+Epoch [4/10], Step [3/3], Loss: 1.6076, Accuracy: 38.87%
+Epoch [5/10], Step [3/3], Loss: 1.5349, Accuracy: 43.00%
+Epoch [6/10], Step [3/3], Loss: 1.4783, Accuracy: 44.91%
+Epoch [7/10], Step [3/3], Loss: 1.4373, Accuracy: 47.23%
+Epoch [8/10], Step [3/3], Loss: 1.3546, Accuracy: 49.55%
+Epoch [9/10], Step [3/3], Loss: 1.3059, Accuracy: 53.98%
+Epoch [10/10], Step [3/3], Loss: 1.2041, Accuracy: 56.50%
+              precision    recall  f1-score   support
+
+           0       0.01      0.67      0.02         6
+           1       0.37      0.41      0.39       308
+           2       0.64      0.41      0.50       519
+           3       0.39      0.83      0.53       157
+           4       0.82      0.37      0.51       797
+           5       0.24      0.36      0.28       207
+           6       0.40      0.87      0.55       151
+           7       0.54      0.60      0.57       301
+           8       0.64      0.43      0.51       499
+           9       0.51      0.45      0.48       381
+
+    accuracy                           0.46      3326
+   macro avg       0.46      0.54      0.43      3326
+weighted avg       0.59      0.46      0.49      3326
+
+Fold Number: 3
+Epoch [1/10], Step [3/3], Loss: 2.4237, Accuracy: 9.97%
+Epoch [2/10], Step [3/3], Loss: 2.0620, Accuracy: 22.96%
+Epoch [3/10], Step [3/3], Loss: 1.8156, Accuracy: 30.41%
+Epoch [4/10], Step [3/3], Loss: 1.7100, Accuracy: 34.74%
+Epoch [5/10], Step [3/3], Loss: 1.5767, Accuracy: 38.57%
+Epoch [6/10], Step [3/3], Loss: 1.5419, Accuracy: 42.50%
+Epoch [7/10], Step [3/3], Loss: 1.4373, Accuracy: 46.02%
+Epoch [8/10], Step [3/3], Loss: 1.4010, Accuracy: 50.76%
+Epoch [9/10], Step [3/3], Loss: 1.2876, Accuracy: 52.57%
+Epoch [10/10], Step [3/3], Loss: 1.2654, Accuracy: 54.18%
+              precision    recall  f1-score   support
+
+           0       0.22      0.38      0.28       186
+           1       0.51      0.34      0.41       497
+           2       0.05      0.32      0.09        57
+           3       0.13      0.93      0.23        46
+           4       0.90      0.23      0.36      1408
+           5       0.25      0.18      0.21       431
+           6       0.23      0.29      0.26       261
+           7       0.21      0.66      0.31       105
+           8       0.27      0.42      0.33       219
+           9       0.23      0.66      0.34       116
+
+    accuracy                           0.30      3326
+   macro avg       0.30      0.44      0.28      3326
+weighted avg       0.55      0.30      0.33      3326
+
+Fold Number: 4
+Epoch [1/10], Step [3/3], Loss: 2.6018, Accuracy: 12.69%
+Epoch [2/10], Step [3/3], Loss: 1.9354, Accuracy: 26.49%
+Epoch [3/10], Step [3/3], Loss: 1.7135, Accuracy: 35.45%
+Epoch [4/10], Step [3/3], Loss: 1.5978, Accuracy: 35.45%
+Epoch [5/10], Step [3/3], Loss: 1.5779, Accuracy: 40.38%
+Epoch [6/10], Step [3/3], Loss: 1.4917, Accuracy: 45.22%
+Epoch [7/10], Step [3/3], Loss: 1.4360, Accuracy: 47.13%
+Epoch [8/10], Step [3/3], Loss: 1.3836, Accuracy: 49.75%
+Epoch [9/10], Step [3/3], Loss: 1.2518, Accuracy: 53.07%
+Epoch [10/10], Step [3/3], Loss: 1.2614, Accuracy: 52.06%
+              precision    recall  f1-score   support
+
+           0       0.30      0.56      0.40       172
+           1       0.51      0.41      0.45       414
+           2       0.66      0.37      0.47       601
+           3       0.51      0.74      0.60       231
+           4       0.75      0.42      0.54       641
+           5       0.29      0.41      0.34       222
+           6       0.46      0.73      0.56       205
+           7       0.44      0.59      0.51       253
+           8       0.34      0.48      0.40       237
+           9       0.47      0.45      0.46       350
+
+    accuracy                           0.48      3326
+   macro avg       0.47      0.51      0.47      3326
+weighted avg       0.53      0.48      0.48      3326
+
+Fold Number: 5
+Epoch [1/10], Step [3/3], Loss: 2.5895, Accuracy: 15.11%
+Epoch [2/10], Step [3/3], Loss: 2.1956, Accuracy: 24.27%
+Epoch [3/10], Step [3/3], Loss: 1.9659, Accuracy: 27.29%
+Epoch [4/10], Step [3/3], Loss: 1.8473, Accuracy: 30.61%
+Epoch [5/10], Step [3/3], Loss: 1.7296, Accuracy: 35.05%
+Epoch [6/10], Step [3/3], Loss: 1.6151, Accuracy: 39.07%
+Epoch [7/10], Step [3/3], Loss: 1.5476, Accuracy: 41.59%
+Epoch [8/10], Step [3/3], Loss: 1.4735, Accuracy: 43.81%
+Epoch [9/10], Step [3/3], Loss: 1.4710, Accuracy: 47.83%
+Epoch [10/10], Step [3/3], Loss: 1.3425, Accuracy: 50.15%
+              precision    recall  f1-score   support
+
+           0       0.39      0.40      0.40       316
+           1       0.35      0.54      0.42       215
+           2       0.19      0.37      0.25       171
+           3       0.16      0.95      0.28        58
+           4       0.80      0.31      0.45       907
+           5       0.30      0.39      0.34       244
+           6       0.64      0.62      0.63       334
+           7       0.60      0.45      0.51       445
+           8       0.10      0.38      0.15        85
+           9       0.60      0.36      0.45       551
+
+    accuracy                           0.41      3326
+   macro avg       0.41      0.48      0.39      3326
+weighted avg       0.56      0.41      0.44      3326
+
+Fold Number: 6
+Epoch [1/10], Step [3/3], Loss: 2.5608, Accuracy: 15.01%
+Epoch [2/10], Step [3/3], Loss: 1.9599, Accuracy: 24.77%
+Epoch [3/10], Step [3/3], Loss: 1.7320, Accuracy: 36.46%
+Epoch [4/10], Step [3/3], Loss: 1.5863, Accuracy: 42.30%
+Epoch [5/10], Step [3/3], Loss: 1.5260, Accuracy: 41.19%
+Epoch [6/10], Step [3/3], Loss: 1.4146, Accuracy: 48.34%
+Epoch [7/10], Step [3/3], Loss: 1.3930, Accuracy: 47.03%
+Epoch [8/10], Step [3/3], Loss: 1.3373, Accuracy: 51.36%
+Epoch [9/10], Step [3/3], Loss: 1.2306, Accuracy: 55.49%
+Epoch [10/10], Step [3/3], Loss: 1.1714, Accuracy: 57.00%
+              precision    recall  f1-score   support
+
+           0       0.17      0.50      0.26       110
+           1       0.53      0.40      0.46       444
+           2       0.27      0.41      0.33       222
+           3       0.11      1.00      0.19        36
+           4       0.86      0.38      0.52       812
+           5       0.25      0.30      0.27       257
+           6       0.51      0.45      0.48       377
+           7       0.59      0.40      0.48       495
+           8       0.11      0.34      0.17       112
+           9       0.38      0.28      0.32       461
+
+    accuracy                           0.38      3326
+   macro avg       0.38      0.45      0.35      3326
+weighted avg       0.53      0.38      0.42      3326
+
+Fold Number: 7
+Epoch [1/10], Step [3/3], Loss: 2.3539, Accuracy: 22.13%
+Epoch [2/10], Step [3/3], Loss: 1.9109, Accuracy: 31.09%
+Epoch [3/10], Step [3/3], Loss: 1.7471, Accuracy: 33.50%
+Epoch [4/10], Step [3/3], Loss: 1.6295, Accuracy: 38.83%
+Epoch [5/10], Step [3/3], Loss: 1.4597, Accuracy: 47.48%
+Epoch [6/10], Step [3/3], Loss: 1.4089, Accuracy: 49.70%
+Epoch [7/10], Step [3/3], Loss: 1.3363, Accuracy: 50.60%
+Epoch [8/10], Step [3/3], Loss: 1.2874, Accuracy: 52.11%
+Epoch [9/10], Step [3/3], Loss: 1.2292, Accuracy: 56.14%
+Epoch [10/10], Step [3/3], Loss: 1.1826, Accuracy: 56.74%
+              precision    recall  f1-score   support
+
+           0       0.40      0.50      0.45       255
+           1       0.46      0.43      0.45       359
+           2       0.50      0.55      0.53       303
+           3       0.61      0.70      0.65       292
+           4       0.72      0.48      0.57       541
+           5       0.22      0.45      0.30       155
+           6       0.53      0.70      0.60       245
+           7       0.79      0.50      0.62       527
+           8       0.52      0.54      0.53       321
+           9       0.52      0.53      0.52       328
+
+    accuracy                           0.53      3326
+   macro avg       0.53      0.54      0.52      3326
+weighted avg       0.57      0.53      0.54      3326
+
+Fold Number: 8
+Epoch [1/10], Step [3/3], Loss: 2.6880, Accuracy: 12.58%
+Epoch [2/10], Step [3/3], Loss: 1.9741, Accuracy: 30.08%
+Epoch [3/10], Step [3/3], Loss: 1.7420, Accuracy: 35.61%
+Epoch [4/10], Step [3/3], Loss: 1.6525, Accuracy: 38.33%
+Epoch [5/10], Step [3/3], Loss: 1.5173, Accuracy: 42.45%
+Epoch [6/10], Step [3/3], Loss: 1.5266, Accuracy: 41.55%
+Epoch [7/10], Step [3/3], Loss: 1.4207, Accuracy: 46.88%
+Epoch [8/10], Step [3/3], Loss: 1.3436, Accuracy: 51.91%
+Epoch [9/10], Step [3/3], Loss: 1.2901, Accuracy: 51.71%
+Epoch [10/10], Step [3/3], Loss: 1.2563, Accuracy: 52.82%
+              precision    recall  f1-score   support
+
+           0       0.21      0.61      0.31       110
+           1       0.11      0.17      0.13       212
+           2       0.29      0.32      0.30       298
+           3       0.09      1.00      0.17        31
+           4       0.96      0.24      0.38      1422
+           5       0.16      0.19      0.17       254
+           6       0.06      0.47      0.11        43
+           7       0.43      0.34      0.38       421
+           8       0.03      0.30      0.06        37
+           9       0.41      0.27      0.33       498
+
+    accuracy                           0.28      3326
+   macro avg       0.27      0.39      0.24      3326
+weighted avg       0.58      0.28      0.32      3326
+
+Fold Number: 9
+Epoch [1/10], Step [3/3], Loss: 2.5408, Accuracy: 21.63%
+Epoch [2/10], Step [3/3], Loss: 1.9669, Accuracy: 25.65%
+Epoch [3/10], Step [3/3], Loss: 1.7737, Accuracy: 32.39%
+Epoch [4/10], Step [3/3], Loss: 1.5758, Accuracy: 40.95%
+Epoch [5/10], Step [3/3], Loss: 1.5821, Accuracy: 40.95%
+Epoch [6/10], Step [3/3], Loss: 1.4744, Accuracy: 48.19%
+Epoch [7/10], Step [3/3], Loss: 1.4362, Accuracy: 46.58%
+Epoch [8/10], Step [3/3], Loss: 1.3964, Accuracy: 49.20%
+Epoch [9/10], Step [3/3], Loss: 1.3690, Accuracy: 49.20%
+Epoch [10/10], Step [3/3], Loss: 1.3117, Accuracy: 50.80%
+              precision    recall  f1-score   support
+
+           0       0.32      0.63      0.42       163
+           1       0.35      0.45      0.40       265
+           2       0.37      0.40      0.39       309
+           3       0.35      0.88      0.50       132
+           4       0.88      0.33      0.48       952
+           5       0.39      0.36      0.38       338
+           6       0.32      0.85      0.47       124
+           7       0.49      0.55      0.52       295
+           8       0.45      0.48      0.47       314
+           9       0.55      0.43      0.48       434
+
+    accuracy                           0.45      3326
+   macro avg       0.45      0.54      0.45      3326
+weighted avg       0.55      0.45      0.45      3326
+
+Fold Number: 10
+Epoch [1/10], Step [3/3], Loss: 2.4925, Accuracy: 20.52%
+Epoch [2/10], Step [3/3], Loss: 1.9017, Accuracy: 33.60%
+Epoch [3/10], Step [3/3], Loss: 1.7508, Accuracy: 35.11%
+Epoch [4/10], Step [3/3], Loss: 1.6516, Accuracy: 37.83%
+Epoch [5/10], Step [3/3], Loss: 1.5460, Accuracy: 44.57%
+Epoch [6/10], Step [3/3], Loss: 1.4562, Accuracy: 45.47%
+Epoch [7/10], Step [3/3], Loss: 1.3685, Accuracy: 49.70%
+Epoch [8/10], Step [3/3], Loss: 1.3082, Accuracy: 51.41%
+Epoch [9/10], Step [3/3], Loss: 1.3011, Accuracy: 51.91%
+Epoch [10/10], Step [3/3], Loss: 1.2694, Accuracy: 53.12%
+              precision    recall  f1-score   support
+
+           0       0.38      0.52      0.44       234
+           1       0.48      0.47      0.48       340
+           2       0.64      0.38      0.48       566
+           3       0.59      0.74      0.65       267
+           4       0.73      0.38      0.50       687
+           5       0.41      0.37      0.39       347
+           6       0.39      0.88      0.54       147
+           7       0.40      0.64      0.49       212
+           8       0.61      0.52      0.56       393
+           9       0.31      0.77      0.44       133
+
+    accuracy                           0.50      3326
+   macro avg       0.49      0.57      0.50      3326
+weighted avg       0.55      0.50      0.50      3326
